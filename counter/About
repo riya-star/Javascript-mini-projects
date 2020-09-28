@@ -1,0 +1,4 @@
+# This is a counter project that changes its color with the change in its range 
+1. RED - Negative numbers
+2. GREEN - Positive numbers 
+3. BLACK - zero
